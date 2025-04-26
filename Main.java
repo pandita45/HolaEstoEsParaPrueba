@@ -70,9 +70,6 @@ class DepositoM {
         if(am.size()!=0){
             return am.remove(0);
         }
-        else{
-            return null;
-        }
     }
 }
 
