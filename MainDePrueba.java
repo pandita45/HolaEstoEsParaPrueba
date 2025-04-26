@@ -1,5 +1,5 @@
 public class MainDePrueba {
-    public static void main(String[] args) {
-        System.out.println("Hola!");
+    public static void  MainDePrueba(){
+        System.out.println("HOLA");
     }
 }
